@@ -1,5 +1,0 @@
-/Users/AriStehney/Desktop/Coding Projcts/Raytracer/CMakeFiles/raytracer.dir
-/Users/AriStehney/Desktop/Coding Projcts/Raytracer/CMakeFiles/run.dir
-/Users/AriStehney/Desktop/Coding Projcts/Raytracer/CMakeFiles/clean_self.dir
-/Users/AriStehney/Desktop/Coding Projcts/Raytracer/CMakeFiles/edit_cache.dir
-/Users/AriStehney/Desktop/Coding Projcts/Raytracer/CMakeFiles/rebuild_cache.dir
